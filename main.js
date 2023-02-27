@@ -120,7 +120,11 @@ editForm.addEventListener("submit", (e) => {
   modal.style.visibility = "hidden";
 });
 
-console.log('some changes')
+
+console.log('some changes');
+
+console.log('new branch');
+
 
 // contact book через db json
 // addInputName 
@@ -133,3 +137,13 @@ console.log('some changes')
 // git remote add origin (link)
 // git push origin master
 // 
+// git add
+// git commit -m ""
+// git push origin master
+
+// git pull origin main
+
+// git add .
+// git commit -m 'new branch'
+// new branch
+// git push origin baiel
