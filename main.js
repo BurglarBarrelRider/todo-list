@@ -120,6 +120,8 @@ editForm.addEventListener("submit", (e) => {
   modal.style.visibility = "hidden";
 });
 
+console.log('some changes')
+
 // contact book через db json
 // addInputName 
 // const todo = { name:addInputName.value number:addInputPhone }
