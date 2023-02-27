@@ -126,5 +126,8 @@ editForm.addEventListener("submit", (e) => {
 
 // git init
 // git remote remove origin
-// git remote origin link
+// git remote origin (link)
 // git add .
+// git remote add origin (link)
+// git push origin master
+// 
